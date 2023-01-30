@@ -1,0 +1,73 @@
+.font-parking24 {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.text-parking-color {
+    color: #d8363a;
+}
+
+.btn-color-button {
+    background-color: blue;
+}
+
+.error-text {
+    color: red;
+}
+
+.normal-text {
+    color: black;
+}
+
+.gradient-custom-2 {
+    background: #fccb90;
+    background: -webkit-linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+    background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+}
+
+.btn.btn-light.font-parking24:hover {
+    background: #fccb90;
+    background: -webkit-linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+    background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+}
+
+.gradient-navbar-2 {
+    background: #fccb90;
+    background: -webkit-linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+    background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.text-navbar-color {
+    color: white;
+}
+
+.btn-parking-button {
+    background: #fccb90;
+    background: -webkit-linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+    background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+#campoEscondido {
+    display: none;
+}
+
+.margin-tabs {
+    margin-top: 10px;
+}
+
+@media (min-width: 768px) {
+    .gradient-form {
+        height: 100vh !important;
+    }
+}
+
+@media (min-width: 769px) {
+    .gradient-custom-2 {
+        border-top-right-radius: .3rem;
+        border-bottom-right-radius: .3rem;
+    }
+}
